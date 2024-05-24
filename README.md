@@ -13,7 +13,8 @@ To do:
 This is just another PPPwn Launcher. No bullshit.
 
 - Requirements
--[* Npcap (Windows)](https://npcap.com)
+
+[* Npcap (Windows)](https://npcap.com)
 
 ![image](https://github.com/Vampitech/PPPwn-Launcher/assets/47399571/ab6a616e-5965-4ca9-821d-e4dda2f82875)
 
